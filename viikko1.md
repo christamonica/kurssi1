@@ -26,6 +26,8 @@
 | Tietokone | 30 |
 | Telakka | 50 |
 
+---
+
 ```json
 {
   "device": "Computer",
@@ -33,7 +35,7 @@
   "amount": 28
 }
 
---- 
+
 
 
 
