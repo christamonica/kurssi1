@@ -17,11 +17,11 @@
 
 >> Elämä on ihanaa! :joy:
 
-    ~~==Mad hustle & dope soul==.~~ 
+    ~~Mad hustle & dope soul.~~ 
 
-![Minä](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkorpisoturi.myportfolio.com%2Fchristamonica-1&psig=AOvVaw0FgIsBcoTs2_Tb96PKDseX&ust=1757608057986000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDjrsHOzo8DFQAAAAAdAAAAABAE)
+![Minä](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxFD18vxbQV5FIxaGFHPTcimUKuS37NMtKw&s)
 
-	| Laite | Määrä |
+| Laite | Määrä |
 | ----------- | ----------- |
 | Tietokone | 30 |
 | Telakka | 50 |
